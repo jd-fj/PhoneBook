@@ -1,0 +1,11 @@
+/Users/taylordelph/Desktop/Epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.csprojAssemblyReference.cache
+/Users/taylordelph/Desktop/Epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/taylordelph/Desktop/Epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.AssemblyInfoInputs.cache
+/Users/taylordelph/Desktop/Epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.AssemblyInfo.cs
+/Users/taylordelph/Desktop/Epicodus/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.deps.json
+/Users/taylordelph/Desktop/Epicodus/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.runtimeconfig.json
+/Users/taylordelph/Desktop/Epicodus/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.runtimeconfig.dev.json
+/Users/taylordelph/Desktop/Epicodus/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.dll
+/Users/taylordelph/Desktop/Epicodus/PhoneBook/bin/Debug/netcoreapp2.2/PhoneBook.pdb
+/Users/taylordelph/Desktop/Epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.dll
+/Users/taylordelph/Desktop/Epicodus/PhoneBook/obj/Debug/netcoreapp2.2/PhoneBook.pdb
